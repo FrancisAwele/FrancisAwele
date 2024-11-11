@@ -1,11 +1,15 @@
-My name is Francis Awele, I am a DATA ANALYST proficient and detail-oriented data analyst with a demonstrated track record of delivering valuable insights and solutions through data-driven methodologies. With a strong academic background. 
-I excel in transforming complex data into understandable and actionable information. 
-I have accumulated extensive experience in data analysis through involvement in six significant projects. These projects span various domains, showcasing versatility and ability to adapt analytical techniques to meet specific business needs. From exploratory data analysis to predictive modeling and reporting.
-Kindly find the link to my porfolio website: https://francisawele.github.io/ 
-I am proficient in Tools: Excel, SQL, Tableau, Power BI. Python (including libraries like Pandas, NumPy, Scikit-Learn), R.
-Statistical Analysis: Regression analysis, hypothesis testing, clustering, time series analysis. Data cleaning, transformation, and integration.Data visualization, problem solving and effective communication.
-Currently open to new job opportunities, I am eager to leverage expertise in data analysis to contribute to a dynamic organization. With a passion for uncovering insights from data and driving business growth.
-EDUCATION: I hold a higher national diploma(HND) in BUSINESS ADMINISTRATION from Lagos State polytechnic. I am a student of @ALTSCHOOLAFRICA acquiring indepth knowledge in data analytics and also thoroughly followed through ALEX FREBERG bootcamp on YouTube.
-With a strong foundation in statistical analysis, technical proficiency in data tools, and a proven ability to deliver actionable insights, I am poised to excel in the field of data analytics. Bringing in creativity, and a results-oriented mindset to any data-driven challenge.
-Thank you for finding interest in my page. Cheers.
+I am a detail-oriented and results-driven Data Analyst with a proven track record of turning complex data into actionable insights and solutions. With a strong academic foundation and hands-on experience, I specialize in leveraging data-driven methodologies to support business decision-making and drive growth.
 
+Over the course of my career, I have successfully contributed to six high-impact projects across various industries, demonstrating versatility and the ability to adapt my analytical approach to meet diverse business needs. My expertise spans exploratory data analysis, predictive modeling, and data reporting, allowing me to provide valuable insights at every stage of the data pipeline.
+
+I am proficient in a wide range of tools and technologies, including Excel, SQL, Tableau, Power BI, Python (with libraries such as Pandas, and NumPy), and R. My skills also extend to statistical analysis methods such as regression analysis, hypothesis testing, clustering, and time series analysis. Additionally, I have strong capabilities in data cleaning, transformation, integration, and effective data visualization.
+
+I am currently open to new opportunities and excited to bring my expertise in data analysis to a dynamic organization. With a passion for uncovering insights and solving complex problems, I am committed to contributing to business success through data-driven solutions.
+
+I obtained Higher National Diploma (HND) in Business Administration from Lagos State Polytechnic.
+Completed advanced training in Data Analytics at @ALTSCHOOLAFRICA and I have also completed the Alex Freberg Bootcamp on YouTube.
+You can explore my portfolio and recent work here: https://francisawele.github.io/.
+
+Thank you for visiting my page. I look forward to connecting with like-minded professionals and organizations eager to drive data-driven decision-making.
+
+Cheers!
